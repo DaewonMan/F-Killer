@@ -1,5 +1,6 @@
 # ProjectName: Plagiarism Checker
 
+----
 ## what is Plagiarism Checker?
 
 >Our team is a group for making the source code plagiarism checker.

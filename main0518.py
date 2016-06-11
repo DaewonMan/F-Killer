@@ -304,7 +304,6 @@ def main(lgg,fnames,jaccard_Index):
 
 
 
-
 # Plagiarism Checker
 ## F - Killer
 

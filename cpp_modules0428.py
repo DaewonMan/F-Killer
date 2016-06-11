@@ -383,7 +383,7 @@ def vble_Union(st):
                 if st[temp] == ";":
                     switch = 0
                     break
-                elif st[temp] == "\n": # int gjlk, fglk, fgldj ........,gjkjflkgjkl; 개행을 넘어버리는 경우 어쩔 ? 
+                elif st[temp] == "\n": 
                     switch = 0
                     break
                 elif st[temp] == ">": #

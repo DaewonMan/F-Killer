@@ -1,8 +1,9 @@
 # ProjectName: Plagiarism Checker
 
 ----
-## what is Plagiarism Checker?
+## What is Plagiarism Checker?
 
->Our team is a group for making the source code plagiarism checker.
-We will be making a program that allows you to scan the four kinds of language.
-The four kinds of language that c, c ++, java, python.
+>This project examines whether the program is plagiarism.
+The purpose of this project is to improve the learning efficiency by preventing copying the source code of the others when students perform the program challenges.
+I thought it one of the string rather than the algorithmic side and analyzed using static analysis.
+Program language that can be tested include C, C ++, java and python.
